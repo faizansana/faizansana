@@ -1,7 +1,7 @@
 ## Fancy seeing you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
 
 
-- 🔭 I’m currently the CTO @ [ESBAAR](http://esbaar.com/) tinkering with Machine Learning based Products
+- 🔭 I’m currently the VP Engineering @ [ESBAAR](http://esbaar.com/) tinkering with Machine Learning based Products
 - 📫 How best to reach me: faizan@esbaar.com
 
 [![Linkedin Badge](https://img.shields.io/badge/-faizansana-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/faizansana/)](https://www.linkedin.com/in/faizansana/)
