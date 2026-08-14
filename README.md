@@ -1,8 +1,8 @@
 ## Fancy seeing you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
 
 
-- 🔭 I’m currently the VP Engineering @ [ESBAAR](http://esbaar.com/) tinkering with Machine Learning based Products
-- 📫 How best to reach me: faizan@esbaar.com
+- 🔭 I’m currently building [Rabeh](http://rabeh.om/) tinkering with F&B to reduce food waste using tech
+- 📫 How best to reach me: faizan@rabeh.om
 
 [![Linkedin Badge](https://img.shields.io/badge/-faizansana-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/faizansana/)](https://www.linkedin.com/in/faizansana/)
 [![Linkedin Badge](https://img.shields.io/badge/-faizan@esbaar.com-blue?style=flat-square&logo=Microsoft-Outlook&logoColor=white&link=mailto:faizan@uwaterloo.ca)](mailto:faizan@esbaar.com)
